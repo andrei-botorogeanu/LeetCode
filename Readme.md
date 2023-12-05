@@ -1,0 +1,1 @@
+Acest folder prezinta solutiile la rezolvarile de pe site-ul LeetCode
